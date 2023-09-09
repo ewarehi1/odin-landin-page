@@ -73,6 +73,8 @@ button {
     color: #1F2937;
     font-weight: 900;
     font-size: 36px;
+    display: flex;
+    justify-content: center;
 }
 
 .cards {
