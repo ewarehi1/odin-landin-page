@@ -80,7 +80,12 @@ button {
 .cards {
     color: #1F2937;
     font-size: 18px;
-    
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 200px;
 }
 
 .quote {
