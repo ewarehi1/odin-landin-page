@@ -93,12 +93,24 @@ button {
     font-style: italic;
     font-size: 36px;
     background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.quote-text {
+    margin: auto;
+    width: 800px;
 }
 
 .quote-author {
     font-size: 24px;
     font-weight: 900;
     font-style: normal;
+    margin: auto;
+    width: 800px;
+    display:flex;
+    justify-content: flex-end;
 }
 
 .sign-up {
