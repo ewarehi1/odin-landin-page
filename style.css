@@ -88,6 +88,11 @@ button {
     width: 200px;
 }
 
+.card img {
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+}
+
 .quote {
     color: #1F2937;
     font-style: italic;
