@@ -154,4 +154,7 @@ button {
 .footer {
     color:#E5E7EB;
     font-size: 18px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
 }
