@@ -132,7 +132,8 @@ button {
 
 .sign-up {
     background-color: #F9FAF8;
-    padding: 80px 160px;
+    display: flex;
+    justify-content: center;
 }
 
 .blue-box {
@@ -144,6 +145,8 @@ button {
     justify-content: space-between;
     padding: 45px 120px;
     border-radius: 12px;
+    width: 800px;
+    margin: 100px;
 }
 
 .blue-box-subtext {
