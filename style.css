@@ -60,9 +60,14 @@ a {
     width: 550px;
 }
 
-button {
+.intro button {
     background-color: #3882F6;
     color: #F9FAF8;
+    border: none;
+    padding: 6px 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
 }
 
 .random-info {
@@ -152,6 +157,16 @@ button {
 .blue-box-subtext {
     font-size: 18px;
     font-weight: normal;
+}
+
+.sign-up button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    padding: 6px 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
 }
 
 .footer {
