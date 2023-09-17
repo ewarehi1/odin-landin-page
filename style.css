@@ -140,6 +140,10 @@ button {
     color: #F9FAF8;
     font-size: 24px;
     font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    padding: 45px 120px;
+    border-radius: 12px;
 }
 
 .blue-box-subtext {
