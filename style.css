@@ -88,9 +88,14 @@ button {
     width: 200px;
 }
 
-.card img {
+.card-image {
     border: 5px solid #3882F6;
     border-radius: 20px;
+    height: 190px;
+}
+
+.card-image img{
+    margin: auto;
 }
 
 .quote {
